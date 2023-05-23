@@ -7,3 +7,4 @@ A Python programmed game where player's turtle crosses road full of continuous m
 
 # Instruction
 - 'Space' key moves the turtle forward
+- Create the hoghest score
